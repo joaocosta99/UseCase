@@ -1,0 +1,4 @@
+git checkout -b dev ----> criar branch
+git checkout dev ---> mudar de branch
+git push origin [branch]-> mandar para repositório
+git remote push https...-> ligar remotamente ao github
